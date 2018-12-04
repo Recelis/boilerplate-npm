@@ -1,6 +1,10 @@
 {
 	"author": "Jacky Lui",
 	"name": "fcc-learn-npm-package-json",
+	"description": "this is an amazing description",
+	"keywords": ["freecodecamp", "dogs","fish"],
+	"license": "MIT",
+	"version":"1.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
